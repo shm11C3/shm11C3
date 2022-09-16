@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shm11C3&layout=compact&langs_count=8
+)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shm11C3&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shm11C3/shm11C3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
