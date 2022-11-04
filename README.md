@@ -1,5 +1,5 @@
-[![Top Langs](github-readme-stats-j4wp33czc-shm11c3.vercel.app/api/top-langs/?username=shm11C3&theme=gruvbox&layout=compact&langs_count=8
-)](github-readme-stats-j4wp33czc-shm11c3.vercel.app)
+[![Top Langs](https://github-readme-stats-j4wp33czc-shm11c3.vercel.app/api/top-langs/?username=shm11C3&theme=gruvbox&layout=compact&langs_count=8
+)](https://github-readme-stats-j4wp33czc-shm11c3.vercel.app)
 [![Anurag's GitHub stats](https://github-readme-stats-j4wp33czc-shm11c3.vercel.app/api?username=shm11C3&theme=gruvbox&layout=compact&count_private=true)](https://github-readme-stats-j4wp33czc-shm11c3.vercel.app)
 
 <!--
