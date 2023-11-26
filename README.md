@@ -1,7 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shm11C3&theme=gruvbox&layout=compact&langs_count=20
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shm11C3&theme=tokyonight&layout=compact&langs_count=20&bg_color=00000000&hide_border=true
 )](https://github-readme-stats-shm11c3.vercel.app/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shm11C3&theme=gruvbox&layout=compact&count_private=true&show=reviews,prs_merged,prs_merged_percentage)](https://github-readme-stats-shm11c3.vercel.app/)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shm11C3&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shm11C3&theme=tokyonight&layout=compact&count_private=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=00000000&hide_border=true)](https://github-readme-stats-shm11c3.vercel.app/)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shm11C3&theme=tokyonight&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shm11C3/shm11C3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
