@@ -1,10 +1,8 @@
-# shm11C3
-
-Web Application Engineer (Japan)
+Web Frontend Engineer (Japan)
 
 - 🔥 Main OSS: **HardwareVisualizer** (Tauri + Rust + React)
 - 🧰 Interests: Frontend, CI/CD, supply-chain (SBOM / license), onboarding & platform work
-- 💼 Work: Web Application Engineer (React + Node.js + AWS)
+- 💼 Work: Web Frontend Engineer (React + Node.js + AWS)
 
 ## 🚀 Featured
 
