@@ -4,9 +4,9 @@ I'm shm11C3 — a web frontend engineer (React/Vite) working on software product
 I build HardwareVisualizer (Tauri/Rust/React), a cross-platform hardware monitoring dashboard.
 I’m into CI/CD, DevEx, and supply-chain/release automation.
 
+- 💼 Work: Web Engineer — React/Vite, Node.js, Java, AWS (Lambda/Fargate/DynamoDB), Serverless Framework
 - 🔥 Main OSS: **HardwareVisualizer** (Tauri + Rust + React)
 - 🧰 Interests: Frontend, CI/CD, DevEx, supply-chain, onboarding & platform work
-- 💼 Work: Web Engineer — React/Vite, Node.js, Java, AWS (Lambda/Fargate/DynamoDB)
 
 ## 🚀 Featured
 
