@@ -1,8 +1,12 @@
-Web Frontend Engineer (Japan)
+## Hey There! 👋
+
+I'm shm11C3 — a web frontend engineer (React/Vite) working on software products.  
+I build HardwareVisualizer (Tauri/Rust/React), a cross-platform hardware monitoring dashboard.
+I’m into CI/CD, DevEx, and supply-chain/release automation.
 
 - 🔥 Main OSS: **HardwareVisualizer** (Tauri + Rust + React)
-- 🧰 Interests: Frontend, CI/CD, supply-chain (SBOM / license), onboarding & platform work
-- 💼 Work: Web Frontend Engineer (React + Node.js + AWS)
+- 🧰 Interests: Frontend, CI/CD, DevEx, supply-chain, onboarding & platform work
+- 💼 Work: Web Engineer — React/Vite, Node.js, Java, AWS (Lambda/Fargate/DynamoDB)
 
 ## 🚀 Featured
 
@@ -13,28 +17,15 @@ Web Frontend Engineer (Japan)
 
 ## 💻 Tech Stack
 
-### Work
-
-- Frontend: React, TypeScript, React Router, Vite
-- Backend/Infra: Node.js, TypeScript, Java, C#, AWS (Lambda / Fargate / Step Functions), DynamoDB, Serverless Framework, CloudFormation
-- CI/CD: GitHub Actions, CodePipeline, CodeBuild, GitHub Actions
-
-### OSS / Hobby
-
-- Desktop: Tauri (Rust) + React + Vite + Tailwind
-- Web: Astro, Next.js, React, TypeScript
-- CI/CD: GitHub Actions
+[![My Skills](https://skillicons.dev/icons?i=ts,react,vite,nodejs,aws,githubactions,rust,tauri,astro,cloudflare,java,cs,dotnet)](https://skillicons.dev)
 
 ## 📫 Links
 
 - GitHub: <https://github.com/shm11C3>
 - X (Twitter): <https://x.com/shm11C3>
-- Blog
-  - Zenn: <https://zenn.dev/shm_7ec>
-  - Qiita: <https://qiita.com/shm>
+- Zenn: <https://zenn.dev/shm_7ec>
+- Qiita: <https://qiita.com/shm>
 
----
+## 📈 stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shm11C3&theme=tokyonight&layout=compact&langs_count=20&bg_color=00000000&hide_border=true)](https://github-readme-stats-shm11c3.vercel.app/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shm11C3&theme=tokyonight&layout=compact&count_private=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=00000000&hide_border=true)](https://github-readme-stats-shm11c3.vercel.app/)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shm11C3&theme=tokyonight&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](./profile-3d-contrib/profile-custom-season.svg)
