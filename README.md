@@ -2,16 +2,16 @@
 
 I'm a software engineer with a frontend background, mainly working with React and TypeScript. I enjoy improving products end to end, from UI architecture and performance to backend services, AWS infrastructure, CI/CD, and release operations.
 
-- 💼 Work: Web Engineer — React/Vite, Node.js, Java, AWS (Lambda/Fargate/DynamoDB), Serverless Framework
-- 🔥 Main OSS: **HardwareVisualizer** (Tauri + Rust + React)
-- 🧰 Interests: Frontend, CI/CD, DevEx, supply-chain, onboarding & platform work
+- 💼 Work: React, TypeScript, Node.js, Java, and AWS
+- 🛠️ Focus: product development, architecture, performance, DevEx, CI/CD, and secure release automation
+- 🔭 Exploring: AI agents and platform engineering for development workflows
 
 ## 🚀 Featured
 
 - **HardwareVisualizer** — cross-platform hardware monitor dashboard (Tauri/Rust)
   - Repo: <https://github.com/shm11C3/HardwareVisualizer>
-- **md-xformer** — Markdown transformer / renderer utilities
-  - Repo: <https://github.com/shm11C3/md-xformer>
+- **md-hinagata** — A themeable Markdown-to-HTML studio for VS Code, powered by a Rust and WebAssembly transformation engine.
+  - Repo: <https://github.com/shm11C3/md-hinagata>
 
 ## 💻 Tech Stack
 
